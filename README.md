@@ -18,7 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/110474637/187039293-b14c2201-7efd-465a-8b50-8fe4a1780b87.png)
 
-Data Analysis with IPL match-by-match dataset of season 2008 - 2020.
+Data Analysis with IPL match-by-match dataset of season 2008 - 2017.
 
 
 The dataset contains two files:-
